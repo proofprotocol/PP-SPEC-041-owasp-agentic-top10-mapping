@@ -113,7 +113,7 @@ The OWASP Top 10 for Agentic Applications is external OWASP work. OWASP names, r
 
 OWASP GenAI Security Project materials are generally published under Creative Commons terms; the applicable license for the exact upstream artifact/version SHOULD be verified at its authoritative source before substantial reuse.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 11. Versioning
 
